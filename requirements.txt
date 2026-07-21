@@ -1,0 +1,5 @@
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+XlsxWriter>=3.2
+psycopg[binary]>=3.2
